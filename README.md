@@ -1,7 +1,44 @@
-# Welcome to My Site!
+# Welcome to My Online Portfolio!
+Hi! I'm Austin, a passionate Game Designer and Developer. This is my corner of the internet where I share my projects, my process, and my love for creating interactive experiences.
 
-This is my new homepage. It's live on the internet!
+# About Me
+I'm a game developer driven by a belief that games are powerful tools for storytelling, education, and connection. I love the entire process, from the initial spark of an idea and designing mechanics on paper, to the thrill of bringing it all to life through code.
 
-*   I can make lists
-*   I can **write in bold**
-*   I can add [links](https://example.com)
+My journey isn't just about solo development. I'm deeply passionate about sharing this knowledge and empowering the next generation of creators.
+
+A Highlight of My Journey: Teaching Game Design to Kids
+One of my most rewarding experiences was designing and delivering a game development class for a group of brilliant kids. We went from concept to a playable prototype together, learning about:
+
+Game Design Fundamentals: We brainstormed ideas, built paper prototypes, and playtested them to see what was fun.
+
+Collaborative Development: The class voted on mechanics, story elements, and art styles, making it a truly shared project.
+
+Basic Programming Logic: We introduced core concepts that brought their characters and worlds to life.
+
+# My Projects
+Here are some of the games and experiments I've been working on. Feel free to play them in your browser!
+
+Featured Project: Robot Runner
+An Endless Runner where you avoid obstacles and defeat enemies with baseballs.
+
+My Role: Instructor, Lead Programmer
+
+Their Role: Artist, Gameplay Designer, Story Writer, ect
+
+Technologies Used: Godot
+
+Key Takeaways: This project taught me about adaptive teaching, simplifying complex ideas, and the pure, unfiltered creativity that comes from a new perspective.
+
+# Find All My Games on itch.io!
+I publish many of my personal projects, game jam entries, and prototypes on my itch.io page. Dive in and see what I've been experimenting with!
+
+Explore my itch.io portfolio: [HERE](https://ajpowers.itch.io)
+
+My Skills & Tools
+Game Engines: Godot
+
+Programming Languages: C#, Python, GDScript
+
+[GitHub](https://github.com/ajpowers334)
+
+Thanks for stopping by!
