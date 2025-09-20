@@ -1,4 +1,4 @@
-# Welcome to My Online Portfolio! Golden
+# Welcome to My Online Portfolio!
 Hi! I'm Austin, a passionate Game Designer and Developer. This is my corner of the internet where I share my projects, my process, and my love for creating interactive experiences.
 
 You can play my most recent project here: [GAME](https://ajpowers334.github.io/WebZip/)
