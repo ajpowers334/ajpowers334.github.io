@@ -8,15 +8,6 @@ I'm a game developer driven by a belief that games are powerful tools for storyt
 
 My journey isn't just about solo development. I'm deeply passionate about sharing this knowledge and empowering the next generation of creators.
 
-A Highlight of My Journey: Teaching Game Design to Kids
-One of my most rewarding experiences was designing and delivering a game development class for a group of brilliant kids. We went from concept to a playable prototype together, learning about:
-
-Game Design Fundamentals: We brainstormed ideas, built paper prototypes, and playtested them to see what was fun.
-
-Collaborative Development: The class voted on mechanics, story elements, and art styles, making it a truly shared project.
-
-Basic Programming Logic: We introduced core concepts that brought their characters and worlds to life.
-
 # My Projects
 Here are some of the games and experiments I've been working on. Feel free to play them in your browser!
 
