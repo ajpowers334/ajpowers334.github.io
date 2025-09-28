@@ -3,6 +3,7 @@ Hi! I'm Austin, a passionate Game Designer and Developer. This is my corner of t
 
 You can play my most recent project here: [GAME](https://ajpowers334.github.io/WebZip/)
 
+[Projects](projects.md)
 [About](about.md)
 
 # About Me
