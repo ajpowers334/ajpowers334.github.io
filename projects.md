@@ -3,7 +3,8 @@
 # My Projects
 Here are some of the games and experiments I've been working on. Feel free to play them in your browser!
 
-Featured Project: Robot Runner
+Featured Project: [Robot Runner](WebZip)
+
 An Endless Runner where you avoid obstacles and defeat enemies with baseballs.
 
 My Role: Instructor, Lead Programmer
