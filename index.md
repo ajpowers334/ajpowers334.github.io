@@ -7,11 +7,6 @@ You can play my most recent project here: [GAME](https://ajpowers334.github.io/W
 [About](about.md)
 [Contact](contact.md)
 
-# About Me
-I'm a game developer driven by a belief that games are powerful tools for storytelling, education, and connection. I love the entire process, from the initial spark of an idea and designing mechanics on paper, to the thrill of bringing it all to life through code.
-
-My journey isn't just about solo development. I'm deeply passionate about sharing this knowledge and empowering the next generation of creators.
-
 # My Projects
 Here are some of the games and experiments I've been working on. Feel free to play them in your browser!
 
