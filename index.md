@@ -37,5 +37,3 @@ Game Engines: Godot
 Programming Languages: C#, Python, GDScript
 
 [GitHub](https://github.com/ajpowers334)
-
-Thanks for stopping by!
