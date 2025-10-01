@@ -1,0 +1,8 @@
+# This is the basic site configuration
+title: "Austin Vines"  # This will change the main heading
+description: "Game Developer and Educator" # This often appears as a subtitle
+author:
+  name: "Austin Vines"  # This can be used by the theme
+
+# Settings for GitHub Pages
+remote_theme: jekyll/Cayman  # This specifies the theme you are using
