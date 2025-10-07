@@ -1,4 +1,4 @@
-[Home](index.md)
+[Home](index.html)
 
 # My Projects
 Here are some of the games and experiments I've been working on. Feel free to play them in your browser!
