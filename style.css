@@ -1,20 +1,21 @@
 /* Change background and text colors */
 body {
-    background-color: #f0f0f0;
+    background-color: #334;
     font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    color: #FFFFFF;
 }
 
 /* Style headings */
 h1 {
-    color: #333;
-    border-bottom: 2px solid #333;
+    color: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
 }
 
 /* Style links */
 a {
-    color: #0066cc;
+    color: yellow;
     text-decoration: none;
 }
