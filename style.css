@@ -1,6 +1,6 @@
 /* Change background and text colors */
 body {
-    background-color: #ff0001;
+    background-color: #333;
     font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
@@ -9,8 +9,8 @@ body {
 
 /* Style headings */
 h1 {
-    color: #800080;
-    border-bottom: 2px solid #333;
+    color: #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
 }
 
 /* Style links */
