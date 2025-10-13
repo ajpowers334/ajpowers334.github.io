@@ -7,6 +7,8 @@ Here are some of the games and experiments I've been working on. Feel free to pl
 
 Featured Project: [Robot Runner](WebZip)
 
+[WordPress](hello-from-playground)
+
 An Endless Runner where you avoid obstacles and defeat enemies with baseballs.
 
 My Role: Instructor, Lead Programmer
